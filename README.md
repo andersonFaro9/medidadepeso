@@ -16,7 +16,7 @@ A medida em que buscam oportunidades de garantir que seus desejos sejam atendido
 
 ## :rocket: Objetivo
 
-<p align="justifier"> Nosso objetivo é informar quantas calorias você consumiu por mês nessa desde do início dapandemia, por causa do COVID-19 e quanto em peso você deverá perder. O aplicativo deverá indicar profissionais de saúde que podem resolver seu problema.</p>
+<p align="justifier"> Nosso objetivo é informar quantas calorias o usuário consumiu por mês nos alimentos consumidos  desde do início da pandemia, por causa do COVID-19 e quanto em peso você deverá perder. O aplicativo deverá indicar profissionais de saúde que podem resolver seu problema.</p>
 
 ## :rocket: Membros
 <p align="justifier"> Procuro por mais membros.</p>
