@@ -6,8 +6,11 @@
 :two_hearts: Um aplicativo que vai te ajudar a saber quantas calorias você consumiu por mês desde que a COVID19 começou. 
 </h4>
 
+![fat](https://user-images.githubusercontent.com/3237047/86924312-afffde00-c105-11ea-9ee6-f4e35b246a57.png)
+
 <h4 align="center">
-  🚀  Documentation: <a href="https://edutucci.github.io/hawkvuemdframework/" target="_blank">HawkVueMd &nbsp;Framework </a>
+  
+  
 </h4>
 
 <h4 align="center">
