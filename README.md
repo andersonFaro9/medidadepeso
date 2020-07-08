@@ -5,12 +5,11 @@
 ![gordo](https://user-images.githubusercontent.com/3237047/86925291-0faab900-c107-11ea-9149-9079a949132a.png)
 
 </h4>
-<h4 align="center">
-</h4>
+<p align="center">
+   Há uma tendência atualmente de as pessoas, no mundo estarem mais ansiosas, e inquietas; procuram motivos para reduzir, talvez os danos causados pela Quarentena, por causa do virús Covid19. Esta pandemia que não grande maioria leva a morte, e que persegue alguns grupos de risco. Por exemplo:
+</p>
 
-<h4 align="center">
-Vue &nbsp;Material &nbsp;Framework, lightweight components for Vue js 2.x. 😍
-</h4>
+
 <br/>
 <p align="center">
 
@@ -93,14 +92,8 @@ build-lib-npm-win
 ```
 yarn lint
 ```
-
-### Customize configuration
-
- :orange_book: See: [Configuration Reference](https://cli.vuejs.org/config/).
-
-
 #### :page_facing_up: License
-This project is under the MIT license, made with love and care :hearts: by Eduardo Tucci, for details, see the [LICENSE](LICENSE.md) 👋
+This project is under the MIT license, made with love and care :hearts: by Anderson Faro, for details, see the [LICENSE](LICENSE.md) 👋
 
 
 
