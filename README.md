@@ -22,7 +22,7 @@ A medida em que buscam oportunidades de garantir que seus desejos sejam atendido
 <p align="justifier"> Procuro por mais membros.</p>
 
 
-## :computer: Installation
+## :computer: Instalação
 **yarn**
 
 ```bash
@@ -32,7 +32,7 @@ yarn add medida
 # Usage
 Adicione seu projeto  em seu main.js
 
-## :nerd_face: :rocket: How to contribute
+## :nerd_face: :rocket: Como contribuir
 
 Faça "fork"; :white_check_mark:
 Crie o "branch" com seu "feature":`git checkout -b my-feature`; :white_check_mark:mark:
@@ -40,7 +40,7 @@ Crie o "branch" com seu "feature":`git checkout -b my-feature`; :white_check_mar
 Faça push: `git push origin my-feature` :white_check_mark:
 
 
-#### :page_facing_up: License
+#### :page_facing_up: Licença
 This project is under the MIT license, made with love and care :hearts: by Anderson Faro, for details, see the [LICENSE](LICENSE.md) 👋
 
 
