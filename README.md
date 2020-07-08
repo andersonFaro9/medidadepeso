@@ -38,7 +38,10 @@
 
 </p>
 
-## :rocket: Technologies
+## :rocket: Objetivo
+
+<p align="center"> Nosso objetivo é nos comprometer em apontar como anda sua saúde e em quantas calorias você consumiu por mês nessa pandemia. Indicamos profissionais de saúde que podem resolver seu problema. O aplicativo fará o calculo de quantas calorias você consumiu, em todo o tempo que você consumiu nesta pandemia. Nosso aplicativo não te trará a solução para a diminuição de peso mas com ele você terá um histórico do que você consumiu.</p>
+
 
 ![vue](https://user-images.githubusercontent.com/3237047/82362961-8d91f400-99e3-11ea-8b60-694eb62c1ac4.png) Vue Js &nbsp; ![css](https://user-images.githubusercontent.com/3237047/82362957-8bc83080-99e3-11ea-8ed0-f998118a4600.png) Pure Css &nbsp; ![node](https://user-images.githubusercontent.com/3237047/82362958-8cf95d80-99e3-11ea-870a-aeb1a046b8d8.png) Node Js 12 &nbsp; ![mdlogo](https://user-images.githubusercontent.com/22483609/82763275-d9c2a700-9ddc-11ea-8da0-d7e1918ccdc4.png) Google Material Design
 
