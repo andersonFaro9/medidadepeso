@@ -5,6 +5,8 @@
 ![gordo](https://user-images.githubusercontent.com/3237047/86925291-0faab900-c107-11ea-9149-9079a949132a.png)
 
 </h4>
+## :rocket: Introdução
+
 <p align="center">
    Há uma tendência atualmente das pessoas, no mundo estarem mais ansiosas, e inquietas por causa do virús Covid19. Esta pandemia pode ou não levar a morte, e persegue alguns grupos de risco. Por exemplo: Pessoas que possue hipertensão arterial, diabéticos, idiosos e pessoas com problemas pulmonares e respiratórios, entre outros. Atrelado a essa situação, a humanidade anda com medo, ficam mais tempo em casa e procuram formas diferentes de manter-se em quarentena. Muitos ganharam peso, muitos mudaram seus costumes, muitos perderam seu emprego. Outros encontram nos exercícios fisícos a solução  para acabar com a espera de que isso vai acabar. Outros buscam de forma excessiva consumir mais e mais alimentos nada recomendadas e que só comprometem nossa saúde.
 Á medida em que buscam oportunidades de garantir que seus desejos sejam atendidos, vacilam em não se cuidar. O uso de mascaras, alcool em gel e sabão liquído tem sido usados por todo o mundo, evitando assim o contágio pelo vírus. Mas no que diz respeito ao cuidado com o peso estão totalmente distraídas e não se importam. Elas compram mais por serviços delivery, evitam a exposição ao vírus. Essa pandemia não trouxe apenas inseguranças e muitas mortes mas um estrago psicológico, e fisico que mudam custumes e culturas e que talvez perpetuem por um bom tempo.
