@@ -29,7 +29,7 @@ A medida em que buscam oportunidades de garantir que seus desejos sejam atendido
 yarn add medida
 ```
 
-# Usage
+# Para usar
 Adicione seu projeto  em seu main.js
 
 ## :nerd_face: :rocket: Como contribuir
