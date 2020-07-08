@@ -2,12 +2,11 @@
 <h4 align="center">
 
 ![medida](https://user-images.githubusercontent.com/3237047/86923542-914d1780-c104-11ea-8409-6a0c1ce16912.png)
-![gordo](https://user-images.githubusercontent.com/3237047/86925291-0faab900-c107-11ea-9149-9079a949132a.png)
 
 </h4>
-## :rocket: Introdução
 
-<p align="center">
+## :rocket: Introdução
+<p align="justifier">
    Há uma tendência atualmente das pessoas, no mundo estarem mais ansiosas, e inquietas por causa do virús Covid19. Esta pandemia pode ou não levar a morte, e persegue alguns grupos de risco. Por exemplo: Pessoas que possue hipertensão arterial, diabéticos, idiosos e pessoas com problemas pulmonares e respiratórios, entre outros. Atrelado a essa situação, a humanidade anda com medo, ficam mais tempo em casa e procuram formas diferentes de manter-se em quarentena. Muitos ganharam peso, muitos mudaram seus costumes, muitos perderam seu emprego. Outros encontram nos exercícios fisícos a solução  para acabar com a espera de que isso vai acabar. Outros buscam de forma excessiva consumir mais e mais alimentos nada recomendadas e que só comprometem nossa saúde.
 Á medida em que buscam oportunidades de garantir que seus desejos sejam atendidos, vacilam em não se cuidar. O uso de mascaras, alcool em gel e sabão liquído tem sido usados por todo o mundo, evitando assim o contágio pelo vírus. Mas no que diz respeito ao cuidado com o peso estão totalmente distraídas e não se importam. Elas compram mais por serviços delivery, evitam a exposição ao vírus. Essa pandemia não trouxe apenas inseguranças e muitas mortes mas um estrago psicológico, e fisico que mudam custumes e culturas e que talvez perpetuem por um bom tempo.
 
@@ -42,7 +41,7 @@
 
 ## :rocket: Objetivo
 
-<p align="center"> Nosso objetivo é nos comprometer em apontar como anda sua saúde e em quantas calorias você consumiu por mês nessa pandemia. Indicamos profissionais de saúde que podem resolver seu problema. O aplicativo fará o calculo de quantas calorias você consumiu, em todo o tempo que você consumiu nesta pandemia. Nosso aplicativo não te trará a solução para a diminuição de peso mas com ele você terá um histórico do que você consumiu.</p>
+<p align="justifier"> Nosso objetivo é nos comprometer em apontar como anda sua saúde e em quantas calorias você consumiu por mês nessa pandemia. Indicamos profissionais de saúde que podem resolver seu problema. O aplicativo fará o calculo de quantas calorias você consumiu, em todo o tempo que você consumiu nesta pandemia. Nosso aplicativo não te trará a solução para a diminuição de peso mas com ele você terá um histórico do que você consumiu.</p>
 
 
 ![vue](https://user-images.githubusercontent.com/3237047/82362961-8d91f400-99e3-11ea-8b60-694eb62c1ac4.png) Vue Js &nbsp; ![css](https://user-images.githubusercontent.com/3237047/82362957-8bc83080-99e3-11ea-8ed0-f998118a4600.png) Pure Css &nbsp; ![node](https://user-images.githubusercontent.com/3237047/82362958-8cf95d80-99e3-11ea-870a-aeb1a046b8d8.png) Node Js 12 &nbsp; ![mdlogo](https://user-images.githubusercontent.com/22483609/82763275-d9c2a700-9ddc-11ea-8da0-d7e1918ccdc4.png) Google Material Design
