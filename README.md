@@ -2,15 +2,10 @@
 <h4 align="center">
 
 ![medida](https://user-images.githubusercontent.com/3237047/86923542-914d1780-c104-11ea-8409-6a0c1ce16912.png)
+![gordo](https://user-images.githubusercontent.com/3237047/86925291-0faab900-c107-11ea-9149-9079a949132a.png)
 
-:two_hearts: Um aplicativo que vai te ajudar a saber quantas calorias você consumiu por mês desde que a COVID19 começou. 
 </h4>
-
-![fat](https://user-images.githubusercontent.com/3237047/86924312-afffde00-c105-11ea-9ee6-f4e35b246a57.png)
-
 <h4 align="center">
-  
-  
 </h4>
 
 <h4 align="center">
