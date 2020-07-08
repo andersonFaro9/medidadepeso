@@ -6,7 +6,10 @@
 
 </h4>
 <p align="center">
-   Há uma tendência atualmente de as pessoas, no mundo estarem mais ansiosas, e inquietas; procuram motivos para reduzir, talvez os danos causados pela Quarentena, por causa do virús Covid19. Esta pandemia que não grande maioria leva a morte, e que persegue alguns grupos de risco. Por exemplo:
+   Há uma tendência atualmente de as pessoas, no mundo estarem mais ansiosas, e inquietas por causa do virús Covid19. Esta pandemia pode ou não levar a morte, e persegue alguns grupos de risco. Por exemplo: Pessoas que possue hipertensão arterial, diabéticos, idiosos e pessoas com problemas pulmonares e respiratórios, entre outros. Atrelado a essa situação, a humanidade anda com medo, mais tempo em casa e procurando formas diferentes de manter em quarentena. Muitos ganharam peso, estão comendo mais e mais parados ficam. Outros encontram nos exercícios fisícos a solução para para acabar com esta agonia pela paz que ainda não veio.
+Á medida em que buscam oportunidades de garantir que seus desejos sejam atendidos, vacilam em não se cuidar diante desta calamidade.  
+O uso de mascaras, alcoll em gel e sabão liquído tem sido recomendado pelos especialistas e médicos de todo o mundo, mas muitos sem lembrar o perigo de contrair o vírus, repassar para família, ganhar peso, comprando por meio de um serviço de " delivery" tem acontecido de forma despecebida. Nesse contexto muitos tem ido por um caminho perigoso e impreciso, elas definitivamente se entregam ao consumo excessivo de alimentos caloricos e gordurosos. Essa pandemia não trouxe apenas inseguranças e muitas mortes mas um estrago psicológico, e fisico que mudaram custumes e culturas que talvez perpetuem para sempre.
+
 </p>
 
 
